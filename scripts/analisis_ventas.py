@@ -7,15 +7,6 @@
 # - Gráficos guardados correctamente en /resultados
 # ==============================================================
 
-# ==============================================================
-# REVISIÓN QA — P3 (Rol: Lucas Timotio)
-# Verificaciones realizadas:
-# - Rutas relativas correctas (reproducible en Colab)
-# - Sin datos sensibles ni tokens en el código
-# - Comentarios técnicos presentes en cada sección
-# - Gráficos guardados correctamente en /resultados
-# ==============================================================
-
 # analisis_ventas.py
 # Autor: P2 - Desarrollador Técnico (Rol: Ricardo Ricardo)
 # Proyecto: Análisis de Ventas — Célula Ágil UTN TUP
